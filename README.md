@@ -13,5 +13,6 @@ Simple App Using Hilt Injection
 </p>
 
 
-
-Source: https://developer.android.com/training/dependency-injection/hilt-android
+<p align="center">
+  Source: https://developer.android.com/training/dependency-injection/hilt-android
+</p>
